@@ -103,7 +103,7 @@
 		"@adonisjs/encryption": "^3.0.7",
 		"@adonisjs/events": "^5.0.6",
 		"@adonisjs/hash": "^6.0.7",
-		"@adonisjs/http-server": "git+https://github.com/esinanturan/http-server#4.0.10",
+		"@adonisjs/http-server": "esinanturan/http-server#4.0.10",
 		"@adonisjs/validator": "^8.2.0",
 		"@poppinss/cliui": "^2.0.2",
 		"@poppinss/utils": "^2.5.9",
